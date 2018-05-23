@@ -3,6 +3,7 @@ WorldQuant University Capstone Project
 Machine Learning Trading System
 
 Justin Lui
+
 https://github.com/justinlui
 
 Abstract
